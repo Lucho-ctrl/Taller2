@@ -7,6 +7,7 @@ public class Cajero {
     private int numTransacciones;
     private int numRetiros;
     private int numConsignaciones;
+    private int numPruebaGitHub;
     
     public Cajero(int idCajero, int saldo) {
         this.idCajero = idCajero;
